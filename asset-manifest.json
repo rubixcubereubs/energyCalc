@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/EnergyEfficiencyCalculator/static/css/main.f29d02c0.chunk.css",
+    "main.js": "/EnergyEfficiencyCalculator/static/js/main.ac086b4f.chunk.js",
+    "main.js.map": "/EnergyEfficiencyCalculator/static/js/main.ac086b4f.chunk.js.map",
+    "runtime-main.js": "/EnergyEfficiencyCalculator/static/js/runtime-main.26781623.js",
+    "runtime-main.js.map": "/EnergyEfficiencyCalculator/static/js/runtime-main.26781623.js.map",
+    "static/js/2.9e5f5339.chunk.js": "/EnergyEfficiencyCalculator/static/js/2.9e5f5339.chunk.js",
+    "static/js/2.9e5f5339.chunk.js.map": "/EnergyEfficiencyCalculator/static/js/2.9e5f5339.chunk.js.map",
+    "index.html": "/EnergyEfficiencyCalculator/index.html",
+    "precache-manifest.1269a9e194b2abc80acfff443d8beda4.js": "/EnergyEfficiencyCalculator/precache-manifest.1269a9e194b2abc80acfff443d8beda4.js",
+    "service-worker.js": "/EnergyEfficiencyCalculator/service-worker.js",
+    "static/css/main.f29d02c0.chunk.css.map": "/EnergyEfficiencyCalculator/static/css/main.f29d02c0.chunk.css.map",
+    "static/js/2.9e5f5339.chunk.js.LICENSE.txt": "/EnergyEfficiencyCalculator/static/js/2.9e5f5339.chunk.js.LICENSE.txt",
+    "static/media/energy.css": "/EnergyEfficiencyCalculator/static/media/background.3b7e31fb.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.26781623.js",
+    "static/js/2.9e5f5339.chunk.js",
+    "static/css/main.f29d02c0.chunk.css",
+    "static/js/main.ac086b4f.chunk.js"
+  ]
+}
